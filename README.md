@@ -83,30 +83,28 @@
 ### •	Real-time dashboard support 
 
 # Dataset Used:
-•	Student academic data 
-•	Placement statistics 
-•	Sales and profit data 
-•	Customer behavior data 
-•	City population data 
+### •	Student academic data 
+### •	Placement statistics 
+### •	Sales and profit data 
 
-Observations:
-•	Plotly charts were interactive and user-friendly. 
-•	Treemap displayed hierarchical values clearly. 
-•	Sankey diagram visualized student flow effectively. 
-•	3D scatter plots allowed rotation for better analysis. 
-•	Geospatial maps showed location insights dynamically. 
-•	WordCloud highlighted key frequent terms. 
+# Observations:
+### •	Plotly charts were interactive and user-friendly. 
+### •	Treemap displayed hierarchical values clearly. 
+### •	Sankey diagram visualized student flow effectively. 
+### •	3D scatter plots allowed rotation for better analysis. 
+### •	Geospatial maps showed location insights dynamically. 
+### •	WordCloud highlighted key frequent terms. 
 
-Applications:
-•	Business Intelligence Dashboards 
-•	Educational Analytics 
-•	Customer Segmentation 
-•	Process Flow Analysis 
-•	Geographic Mapping 
-•	Text Analytics 
+# Applications:
+### •	Business Intelligence Dashboards 
+### •	Educational Analytics 
+### •	Customer Segmentation 
+### •	Process Flow Analysis 
+### •	Geographic Mapping 
+### •	Text Analytics 
 
-Result:
-Real-world and interactive visualization techniques using Plotly and other Python libraries were successfully studied and implemented.
+# Result:
+### Real-world and interactive visualization techniques using Plotly and other Python libraries were successfully studied and implemented.
 
-Conclusion:
-Interactive visualizations provide better understanding of complex datasets than static charts. Plotly enhances data exploration through dynamic and responsive charts, making it highly useful for modern analytics and dashboards.
+# Conclusion:
+### Through this experiment, we have observed that interactive visualizations provide better understanding of complex datasets than static charts. We have also seen how plotly enhances data exploration through dynamic and responsive charts, making it highly useful for modern analytics and dashboards.
